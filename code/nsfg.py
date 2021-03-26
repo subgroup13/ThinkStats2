@@ -32,6 +32,7 @@ def ReadFemResp(dct_file='2002FemResp.dct',
 
 def CleanFemResp(df):
     """Recodes variables from the respondent frame.
+a=input("Czy to działa?")
 
     df: DataFrame
     """
